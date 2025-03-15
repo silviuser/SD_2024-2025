@@ -149,6 +149,7 @@ void stergerePrimulElement(Nod** cap)
 
 void sortareLista(Nod** cap)
 {
+	//Bubble Sort
 	if (!((*cap) == NULL || (*cap)->next == NULL)) {
 		int sortat = 1;
 
