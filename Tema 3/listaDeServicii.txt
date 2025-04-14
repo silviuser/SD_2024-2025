@@ -1,0 +1,42 @@
+Instalare Software
+IT
+45
+100
+87421
+DA
+05/04/2025
+Curatenie Birouri
+Facilities
+60
+50
+32011
+NU
+18/04/2025
+Reparare Imprimanta
+IT
+30
+80
+45782
+DA
+25/03/2025
+Consultanta HR
+HR
+90
+200
+19203
+DA
+12/05/2025
+Audit Financiar
+Financiar
+120
+500
+67584
+DA
+30/06/2025
+Intretinere Servere
+IT
+180
+400
+99832
+DA
+15/07/2025
