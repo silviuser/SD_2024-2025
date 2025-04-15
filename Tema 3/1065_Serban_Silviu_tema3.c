@@ -341,7 +341,6 @@ void main()
 	//8. Sa se stearga toate nodurile din tabela de dispersie care indeplinesc un criteriu la alegere, altul decat cheia de cautare.
 	// criteriu <=> departamentul IT
 	int nr = stergeElementeDinHashTable(tabela1,"IT");
-	printf("\nAu fost efectuate %d stergeri");
 	printf("\n\n CERINTA 8");
 	printf("\nAu fost efectuate %d stergeri",nr);
 	printf("\n-----------------------------------\n Afisare HashTable: ");
