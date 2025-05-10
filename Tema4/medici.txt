@@ -1,0 +1,35 @@
+1
+Popescu Ion
+45
+Cardiologie
+14500.5
+1980101123456
+4.8
+2
+Ionescu Maria
+38
+Ortopedie
+12300.7
+1986021423457
+4.4
+3
+Georgescu Vlad
+29
+Neurologie
+9700.25
+1995112923458
+4.9
+4
+Marinescu Ana
+50
+Medicina Interna
+15300.9
+1975091023459
+4.2
+5
+Dobre Stefan
+41
+Chirurgie
+13900.0
+1983030523460
+4.6
