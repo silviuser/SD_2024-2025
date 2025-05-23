@@ -1,0 +1,24 @@
+10
+1|Photoshop|2024.1|Adobe|2024|1200000|2.5
+2|Visual Studio|2022|Microsoft|2022|950000|30.1
+3|Chrome|122.0|Google|2023|2000000000|1.1
+4|IntelliJ|2023.3|JetBrains|2023|500000|1.8
+5|VS Code|1.78|Microsoft|2023|3000000|0.5
+6|Figma|1.0|Figma Inc|2021|1500000|1.3
+7|Notion|2.0|Notion Labs|2022|1800000|0.8
+8|Blender|3.6|Blender Foundation|2023|800000|2.2
+9|Firefox|117.0|Mozilla|2023|600000|1.4
+10|Slack|4.32|Salesforce|2022|1600000|0.9
+12
+1 2
+1 5
+2 3
+2 4
+3 5
+3 6
+4 7
+5 7
+6 8
+6 9
+7 10
+8 10
